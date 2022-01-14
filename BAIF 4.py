@@ -1,0 +1,5 @@
+name = str(input("Nhập tên và id: "))
+print((name))
+values=input("Nhập vào các giá trị: ")
+l=values.split(",")
+print (l)
